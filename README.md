@@ -1,1 +1,1 @@
-# EconomistCode-world-cup-2026-predictor
+# World-cup-2026-predictor
